@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer working in Los Angeles, CA.
 
 <!-- ##### NOW
 
@@ -17,7 +17,7 @@
 - 🌱 Learning all about **Open Source**
 - 🤔 I’m looking for help with freelancing, how do I start?
 - 💬 Ping me about **design**, **VR**, **AR**, ****
-- 📫 Reach me: [Email](mailto:pedrotychang@gmail.com)
+- 📫 Reach me: [pedrotchang@gmail.com](mailto:pedrotychang@gmail.com)
 - ✨ Fun fact: I'm a Latino Asian
 
 
