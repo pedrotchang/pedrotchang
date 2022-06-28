@@ -11,8 +11,8 @@
 ##### BIO
 
 - 🥾🏕 I'm currently in [Actualize Coding Bootcamp](http://anyonecanlearntocode.com/)
-- ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`, `.ai`
-- 🌱 Learning all about **Open Source**
+- ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`
+- 🌱 Learning all about **Open Source**, **Python**, **React**
 - 🤔 I’m looking for help with freelancing, how do I start?
 - 💬 Ping me about **VR**, **AR**, **Finntech Jobs**
 - 📫 Reach me: [pedrotchang@gmail.com](mailto:pedrotychang@gmail.com)
