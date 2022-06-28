@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Los Angeles, CA.
+#### I'm a Full-Stack Developer located in Los Angeles, CA.
 
 <!-- ##### NOW
 
