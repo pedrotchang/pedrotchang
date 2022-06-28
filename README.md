@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻 Hi there! Pedro Chang, a Latino Asian :D</h1>
+<h1 align="center">👋🏻 Hi there! NAME: Pedro Chang, a Latino Asian :D</h1>
 
 
 
