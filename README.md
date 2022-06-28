@@ -11,7 +11,7 @@
 ##### LINKS:
 
 - ✨ My [TIL](pedrotchang/til)
-- 🙆🏻‍♂️ [LinkedIn](https://linkedin.com/in/pedrotchang) website;
+- 🙆🏻‍♂️ [LinkedIn](https://linkedin.com/in/pedrotchang)
 <!-- - ☕️ [Coffee?] -->
 
 
