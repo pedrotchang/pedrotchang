@@ -16,7 +16,7 @@
 <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 - 🌱 Learning all about **Open Source**
 - 🤔 I’m looking for help with freelancing, how do I start?
-- 💬 Ping me about **design**, **VR**, **AR**, ****
+- 💬 Ping me about **VR**, **AR**, **Finntech Jobs**
 - 📫 Reach me: [pedrotchang@gmail.com](mailto:pedrotychang@gmail.com)
 - ✨ Fun fact: I'm a Latino Asian
 
