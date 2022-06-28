@@ -1,4 +1,25 @@
-<h1 align="center">👋🏻 Hi there! NAME: Pedro Chang, a Latino Asian :D</h1>
+### Hi there 👋
+
+#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+
+<!-- ##### NOW
+
+- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this? -->
+
+##### BIO
+
+- 🥾🏕 I'm currently in [Actualize Coding Bootcamp](http://anyonecanlearntocode.com/)
+- ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`, `.ai`
+<!-- - 🌍 I'm mostly active within the ** Community** -->
+<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
+- 🌱 Learning all about **Open Source**
+- 🤔 I’m looking for help with freelancing, how do I start?
+- 💬 Ping me about **design**, **VR**, **AR**, ****
+- 📫 Reach me: [Email](mailto:pedrotychang@gmail.com)
+- ✨ Fun fact: I'm a Latino Asian
+
 
 
 
