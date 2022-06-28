@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">👋🏻 Hi there! Pedro Chang, a Latino Asian :D</h1>
+
+
 
 <!--
 **pedrotchang/pedrotchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
