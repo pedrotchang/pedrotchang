@@ -8,6 +8,13 @@
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this? -->
 
+##### LINKS:
+
+- ✨ My [TIL](pedrotchang/til)
+- 🙆🏻‍♂️ [LinkedIn](https://linkedin.com/in/pedrotchang) website;
+<!-- - ☕️ [Coffee?] -->
+
+
 ##### BIO
 
 - 🥾🏕 I'm currently in [Actualize Coding Bootcamp](http://anyonecanlearntocode.com/)
