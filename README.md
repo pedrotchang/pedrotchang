@@ -10,7 +10,7 @@
 
 ##### LINKS:
 
-- ✨ My [TIL]([httppedrotchang/til](https://github.com/pedrotchang/til))
+- ✨ My [TIL](https://github.com/pedrotchang/til)
 - 🙆🏻‍♂️ [LinkedIn](https://linkedin.com/in/pedrotchang)
 <!-- - ☕️ [Coffee?] -->
 
