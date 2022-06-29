@@ -12,7 +12,7 @@
 
 - ✨ My [TIL](https://github.com/pedrotchang/til)
 - 🙆🏻‍♂️ [LinkedIn](https://linkedin.com/in/pedrotchang)
-<!-- - ☕️ [Coffee?] -->
+- ☕️ Let's have a [Virtual Coffee](https://calendly.com/pedrotchang)
 
 
 ##### BIO
