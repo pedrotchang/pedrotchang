@@ -24,9 +24,9 @@
 
 ---
 
-[![TIL](https://github-readme-stats.vercel.app/api/pin/?username=pedrotchang&repo=TIL&theme=gruvbox)](https://github.com/pedrotchang/til)
+[![TIL](https://github-readme-stats.vercel.app/api/pin/?username=pedrotchang&repo=TIL&theme=dark)](https://github.com/pedrotchang/til)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=pedrotchang&theme=gruvbox&show_iconse=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=pedrotchang&theme=dark&show_iconse=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
