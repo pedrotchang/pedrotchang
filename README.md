@@ -23,9 +23,6 @@
 - ✨ Fun fact: I'm a Latino Asian
 - ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`
 
----
-
-
 <!-- - 🌍 I'm mostly active within the ** Community**
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… 
 [![TIL](https://github-readme-stats.vercel.app/api/pin/?username=pedrotchang&repo=TIL&theme=dark)](https://github.com/pedrotchang/til)
