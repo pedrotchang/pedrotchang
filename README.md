@@ -24,7 +24,6 @@
 - ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`
 
 ---
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrotchang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- - 🌍 I'm mostly active within the ** Community**
