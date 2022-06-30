@@ -24,7 +24,7 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotchang&repo=til)](https://github.com/pedrotchang/til)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotchang&repo=til&show_owner&custom_title=📚today_I_learned)](https://github.com/pedrotchang/til)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pedrotchang&theme=gruvbox&show_iconse=true)](https://github.com/anuraghazra/github-readme-stats)
 
