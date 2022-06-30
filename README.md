@@ -24,6 +24,8 @@
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotchang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=pedrotchang&theme=gruvbox&show_iconse=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
