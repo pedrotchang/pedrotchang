@@ -18,7 +18,7 @@
 ##### BIO
 
 - 🥾🏕 I'm currently in [Actualize Coding Bootcamp](http://anyonecanlearntocode.com/)
-- 🌱 Learning everything..🤣
+- 🌱 Trying to learn everything..🤣
 - 🤔 I’m looking for help with life, how do I start?
 - ✨ Fun fact: I'm a Latino Asian
 - ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`
