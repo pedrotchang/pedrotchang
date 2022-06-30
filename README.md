@@ -18,29 +18,18 @@
 ##### BIO
 
 - 🥾🏕 I'm currently in [Actualize Coding Bootcamp](http://anyonecanlearntocode.com/)
-- ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`
-- 🌱 Learning all about **Open Source**, **Python**, **React**
-- 🤔 I’m looking for help with freelancing, how do I start?
-- 💬 Ping me about **VR**, **AR**, **Finntech Jobs**
-- 📫 Reach me: [pedrotychang@gmail.com](mailto:pedrotychang@gmail.com)
+- 🌱 Learning everything..🤣
+- 🤔 I’m looking for help with life, how do I start?
 - ✨ Fun fact: I'm a Latino Asian
-<!-- - 🌍 I'm mostly active within the ** Community** -->
-<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
+
+---
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=pedrotchang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-<!--
-**pedrotchang/pedrotchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 🌍 I'm mostly active within the ** Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… 
+- ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`
 -->
