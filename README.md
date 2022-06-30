@@ -24,7 +24,7 @@
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=pedrotchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=pedrotchang&theme=gruvbox&show_iconse=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
