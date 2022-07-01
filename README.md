@@ -6,7 +6,7 @@
 
 - ✨ My [TIL](https://github.com/pedrotchang/til)
 - ☕️ Let's have a [Virtual Coffee](https://calendly.com/pedrotchang)
-- 🙆🏻‍♂️ [Linked In](https://linkedin.com/in/pedrotchang)
+- 🙆🏻‍♂️ [LinkedIn](https://linkedin.com/in/pedrotchang)
 
 ##### BIO
 
