@@ -21,17 +21,3 @@
 <a href="https://twitter.com/alexandresanlim">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
 </a>&nbsp;&nbsp;
-  
-<!-- </p> -->
-
-
-<!-- - 🌍 I'm mostly active within the ** Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… 
-[![TIL](https://github-readme-stats.vercel.app/api/pin/?username=pedrotchang&repo=TIL&theme=dark)](https://github.com/pedrotchang/til)
--->
-
-<!-- ##### NOW
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this? 
--->
