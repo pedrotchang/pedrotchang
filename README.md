@@ -13,7 +13,6 @@
 - 🥾🏕 I'm currently in [Actualize Coding Bootcamp](http://anyonecanlearntocode.com/)
 - 🌱 Trying to learn everything..🤣
 - 🤔 I’m looking for help to start contributing to **open source**, how do I start?
-- ⚙️ I work in: `.ruby`, `.rails`, `.js`, `.html`, `.css`, `.vue`
 - ✨ Fun fact: I'm a Latino Asian
 
 ##### SKILLS
