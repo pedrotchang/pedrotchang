@@ -4,8 +4,7 @@ DevOps Engineer who loves working in the commandline. If I can find a way to use
 
 I love Linux, Kubernetes, Cloud, Postgres, and Python.
 
-I am currently learning [Go](https://go.dev), and in the process of becoming a [Kubernetes](https://www.kubernetes.dev)
-contributer.
+I am currently learning [Go](https://go.dev), and am now a Kubernetes [contributor](https://github.com/kubernetes-sigs/contributor-playground/pull/1729)! ☺️
 
 I am in love with automation, infrastructure, architecture, and Cloud Native. I find that it is in essence, an 
 epitomy of technology; where efficiency meets continuous creation.
