@@ -21,7 +21,7 @@ This may not seem like much, but the following image just gets me so excited.
 It is an image of my Tachtit cluster connecting to an external data cluster running [CloudnativePG](https://cloudnative-pg.io) 
 and successfully creating data! So cool!
 
-![Linkding-Postgres](https://assets.skool.com/f/2f523fa360354d2cbcc24b516ba54816/212b8ad04ee245e1a450500cefbfaa62eb33df3f7b184bc2b02da38f9e9f1bc0)
+<img src="https://assets.skool.com/f/2f523fa360354d2cbcc24b516ba54816/212b8ad04ee245e1a450500cefbfaa62eb33df3f7b184bc2b02da38f9e9f1bc0" width="50%" alt="Linkding-PG">
 
 ## I am a part of the #1 DevOps community on Skool with over 5000 members
 
