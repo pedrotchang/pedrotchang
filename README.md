@@ -31,9 +31,9 @@ Come join us! We have amazing Courses, and awesome people who love automation an
 
 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Halfway through CKA Certification](https://pedrotchang.dev/posts/halfway-cka-cert/)
 - [How I Set my GitHub README](https://pedrotchang.dev/posts/github-readme/)
 - [How I Installed Cosmic DE on Arch Linux](https://pedrotchang.dev/posts/arch-cosmic/)
 - [How I Created a Hugo Blog](https://pedrotchang.dev/posts/how-i-created-a-hugo-blog/)
 - [My Commitment](https://pedrotchang.dev/posts/my-commitment/)
-- [Book a Virtual Coffee ☕️](https://pedrotchang.dev/contact/)
 <!-- BLOG-POST-LIST:END -->
