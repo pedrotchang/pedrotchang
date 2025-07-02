@@ -31,9 +31,9 @@ Come join us! We have amazing Courses, and awesome people who love automation an
 
 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Passed the CKAD Exam in June 2025](https://pedrotchang.dev/posts/how-i-passed-my-ckad/)
 - [Vim: Substition](https://pedrotchang.dev/posts/vim-substitution/)
 - [Bash: History Expansion](https://pedrotchang.dev/posts/bash-history-expansion/)
 - [I am a Certified Kubernetes Application Developer!](https://pedrotchang.dev/posts/ckad/)
 - [Study Schedule while in South Korea](https://pedrotchang.dev/posts/sk-certs-contract/)
-- [How I installed ATM10 in Talos Linux Kubernetes](https://pedrotchang.dev/posts/minecraft/)
 <!-- BLOG-POST-LIST:END -->
