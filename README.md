@@ -31,9 +31,9 @@ Come join us! We have amazing Courses, and awesome people who love automation an
 
 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Blog Posts from Obsidian to Hugo with Git Hooks](https://pedrotchang.dev/posts/automated-obsidian-to-hugo-publishing/)
 - [How I Passed the CKAD Exam in June 2025](https://pedrotchang.dev/posts/how-i-passed-my-ckad/)
 - [Vim: Substition](https://pedrotchang.dev/posts/vim-substitution/)
 - [Bash: History Expansion](https://pedrotchang.dev/posts/bash-history-expansion/)
 - [I am a Certified Kubernetes Application Developer!](https://pedrotchang.dev/posts/ckad/)
-- [Study Schedule while in South Korea](https://pedrotchang.dev/posts/sk-certs-contract/)
 <!-- BLOG-POST-LIST:END -->
