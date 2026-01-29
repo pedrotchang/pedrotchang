@@ -33,7 +33,7 @@ Come join us! We have amazing Courses, and awesome people who love automation an
 <!-- BLOG-POST-LIST:START -->
 - [Why I Stopped Trying to Run Claude Code in Kubernetes](https://pedrotchang.dev/posts/running-claude-code-in-kubernetes/)
 - [Building a Digital Garden with Quartz and Kubernetes](https://pedrotchang.dev/posts/building-a-digital-garden-with-quartz/)
-- [Automating Blog Posts from Obsidian to Hugo with Git Hooks](https://pedrotchang.dev/posts/automated-obsidian-to-hugo-publishing/)
-- [How I Passed the CKAD Exam in June 2025](https://pedrotchang.dev/posts/how-i-passed-my-ckad/)
-- [Vim: Substition](https://pedrotchang.dev/posts/vim-substitution/)
+- [Mining for Fun: Running a Modded Minecraft Server on My Kubernetes Homelab](https://pedrotchang.dev/posts/minecraft-server-kubernetes-homelab/)
+- [Self-Hosting Your Photos: Running Immich in Kubernetes with Bulletproof Backups](https://pedrotchang.dev/posts/self-hosting-photos-immich-kubernetes/)
+- [Building a Private AI Stack in My Kubernetes Homelab](https://pedrotchang.dev/posts/building-private-ai-stack-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
