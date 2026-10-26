@@ -23,12 +23,6 @@ and successfully creating data! So cool!
 
 <img src="https://assets.skool.com/f/2f523fa360354d2cbcc24b516ba54816/212b8ad04ee245e1a450500cefbfaa62eb33df3f7b184bc2b02da38f9e9f1bc0" width="50%" alt="Linkding-PG">
 
-## I am a part of the #1 DevOps community on Skool with over 5000 members
-
-Come join us! We have amazing Courses, and awesome people who love automation and Kubernetes.
-
-[Kubecraft](https://www.skool.com/kubecraft/about?ref=a62f54d29cbe4c4dba2dc0980fd3019c)
-
 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Why I Stopped Trying to Run Claude Code in Kubernetes](https://pedrotchang.dev/posts/running-claude-code-in-kubernetes/)
